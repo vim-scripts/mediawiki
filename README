@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3742
+
+This syntax file makes it much easier to read the curly braces nightmare from mediawiki templates. Based on Wikipedia.vim.
